@@ -1,0 +1,82 @@
+
+.body {
+    background: #fff;
+    background-image: none;
+}
+
+.row {
+    margin-right: 0;
+    margin-left: -15px;
+}
+
+
+
+.main-nav-section{
+        background: #f9f9f9;
+}
+
+.ttmenu .dropdown-menu,
+.ttmenu .navbar-default .ttmenu-content {
+    padding-bottom: 0px;
+        padding-top: 0px;
+        padding-right: 0px;
+    padding-left: 5px;
+
+
+    background: #f4f4f4;
+}
+
+.container {
+    width: 100%;
+    max-width: 1550px;
+}
+
+.navbar-default .navbar-nav > li > a {
+  padding-bottom: 20px;
+  padding-top: 23px;
+  font-family: "Open Sans",Arial,sans-serif;
+  font-size: 14px;
+  height: 65px;
+  font-style: normal;
+  color: #425469  !important;
+  font-weight: 300;
+    letter-spacing: 1px;
+  text-transform: none;
+}
+
+
+.navbar-default {
+    background: #f2f2f2; /* Old browsers */
+    /* IE9 SVG, needs conditional override of 'filter' to 'none' */
+}
+
+.level-3  a:hover,  a:focus {
+  color: blue;
+  background-color: #eee ;
+
+}
+
+
+  .tabs-vertical{  position: relative;
+    min-height: 1px;
+    padding-right: 0px;
+    padding-left: 10px;
+}
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
+  color: #3a3a3a;
+  background-color: #eee ;
+        letter-spacing: 1px;
+
+
+}
+.col-md-4 .col-sm-6 .col-xs-12 .box{
+    padding-left: 0px}
+    
+
+.dropme:after {
+  content: "\f107";
+  color: #abbabf;
+  padding-left: 5px;
+  font-family: 'FontAwesome';
+}
